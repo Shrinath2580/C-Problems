@@ -1,4 +1,7 @@
 // Fibonacci Series 
+#include<iostream>
+using namespace std;
+
 void series(int n) {
     int a = 0;
     int b = 1;
