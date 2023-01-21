@@ -1,4 +1,7 @@
 //2. input is a & b. Output should be total no. of set bits in a&b.
+#include<iostream>
+using namespace std;
+
 int countBits1(int a){
     
     int count = 0;
