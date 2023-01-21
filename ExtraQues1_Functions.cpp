@@ -1,4 +1,7 @@
 //A.P = ( 3 * n + 7)
+#include<iostream>
+using namespace std;
+
 int ap(int n){
     int ans = 0;
     //for(int i = 0; i<=n; i++) {
