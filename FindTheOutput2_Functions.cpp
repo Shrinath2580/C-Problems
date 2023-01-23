@@ -1,4 +1,8 @@
 //2.
+
+#include<iostream>
+using namespace std;
+
 int update(int a) {
     a -= 5;
     return a;
