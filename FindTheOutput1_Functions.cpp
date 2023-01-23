@@ -1,4 +1,8 @@
 //1.
+
+#include<iostream>
+using namespace std;
+
 void update (int a) {
     a = a / 2;
 }
