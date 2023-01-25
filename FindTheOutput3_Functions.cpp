@@ -1,4 +1,8 @@
 //3.
+
+#include<iostream>
+using namespace std;
+
 int update(int a) {
     int ans = a * a;
     return ans;
