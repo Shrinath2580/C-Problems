@@ -1,6 +1,6 @@
 /*Homework Question:
 Entire array ko kisi bhi value se initialise kaise kare ?
-
+*/
 
 //1.
 #include<iostream>
@@ -36,7 +36,7 @@ int main() {
     cout <<endl;
     return 0;
 }
-*/
+
 
 
 //Arrays with Function
