@@ -1,3 +1,2 @@
-void speak() {
-        cout << "Barking " << endl;
-    }
+    // deleteNode(tail,3);
+    // print(tail);
