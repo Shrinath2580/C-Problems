@@ -1,3 +1,3 @@
 # CPP-Problems
-C++ Problems from basic including DSA.
+DSA Problems in C++ from beginners to advance.
 Learning and Uploading new programs everyday.
